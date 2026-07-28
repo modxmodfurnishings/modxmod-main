@@ -42,6 +42,12 @@ A part of a specific shape that permits the joining of two products. The connect
 
 Simple parts that hold two materials together or join products. Screws and locking cams are popular fasteners. Fasteners are generally not considered connectors because they are not sold individually. Washers on fasteners are not considered to be part of the fastener.
 
+The advantage of fasteners is that assembled parts can be disassembled.
+
+### Glue
+
+An adhesive product that permanently locks two or more parts together. Glued parts are not generally designed to be separated. 
+
 ### Kit
 
 A set of parts and components which are not fully assembled to create the full product, or a set of parts that support the construction of the product. A product may come partially disassebled as a kit to enable easier shipping, or a set of fasteners may be included with a product as a kit.
@@ -53,6 +59,14 @@ A shippable box containing a product, a kit, a bundle. To protect the interior c
 ### Part
 
 Any single item or set of items used to make larger assemblies and components. A screw is a part, a bracket is a part, a software module is a part. Parts have defined boundaries; data and designs do not generally have boundaries. Parts are more than raw materials.
+
+### Press fit
+
+A part that is seated into another part merely by pushing it in, usually without the need of special tools. Some force may be required to insert the part. Once seated, the part may become temporarily or permanently attached.
+
+### Sliding fit
+
+A part is inserted into another by means of sliding it in, usually into guiding slots. Little or no effort should be needed to slide the part in; if force is required then it may be considered a press fit.
 
 ### Product
 

@@ -4,7 +4,7 @@ The guiding principles of the Open Furshishings System (OFS) help to ensure deci
 
 ## How to use the Principles
 
-Principles are listed in descending order of importantance: if there are two competing principles, the first principle should be valued more.
+Principles are listed in descending order of importantance: if there are two competing principles, the first principle should be valued more. However, exceptions may always be made to provide the best experience.
 
 ## Principle 1: People First
 
