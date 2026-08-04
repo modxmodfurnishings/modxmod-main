@@ -68,7 +68,6 @@ OFS is just beginning and has a lot of room to grow. We envision that there will
 - Managing a growing community with moderation and creating safe spaces for people to openly contribute and respectfully debate solutions
 - Creating in-person events to let us celebrate our collaborative solutions and also show other people why OFS can benefit them
 
-If you'd like to help, please reach out:
-[https://www.modxmod.com/pages/contact](https://www.modxmod.com/pages/contact)
+If you'd like to help, please reach out:[https://www.modxmod.com/pages/contact](https://www.modxmod.com/pages/contact)
 
 Thanks.
