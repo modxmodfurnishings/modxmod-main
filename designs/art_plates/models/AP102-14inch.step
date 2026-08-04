@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Plate 102.step',
-/* time_stamp */ '2026-07-22T09:01:51-07:00',
+/* name */ 'ap102.step',
+/* time_stamp */ '2026-08-03T08:55:47-07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -672,15 +672,18 @@ SOLID_ANGLE_UNIT()
 #620=PRODUCT_DEFINITION_SHAPE('',$,#623);
 #621=SHAPE_REPRESENTATION('',(#367),#613);
 #622=PRODUCT_DEFINITION_CONTEXT('part definition',#627,'design');
-#623=PRODUCT_DEFINITION('2026-06-27-09-29-19-822','Plate 102',#624,#622);
+#623=PRODUCT_DEFINITION('2026-07-20-17-26-26-967',
+'AP102 Solid for 3D Printing',#624,#622);
 #624=PRODUCT_DEFINITION_FORMATION('',$,#629);
-#625=PRODUCT_RELATED_PRODUCT_CATEGORY('Plate 102','Plate 102',(#629));
+#625=PRODUCT_RELATED_PRODUCT_CATEGORY('AP102 Solid for 3D Printing',
+'AP102 Solid for 3D Printing',(#629));
 #626=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#627);
 #627=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #628=PRODUCT_CONTEXT('part definition',#627,'mechanical');
-#629=PRODUCT('2026-06-27-09-29-19-822','Plate 102',$,(#628));
+#629=PRODUCT('2026-07-20-17-26-26-967','AP102 Solid for 3D Printing',$,
+(#628));
 #630=PRESENTATION_STYLE_ASSIGNMENT((#631));
 #631=SURFACE_STYLE_USAGE(.BOTH.,#632);
 #632=SURFACE_SIDE_STYLE('',(#633));

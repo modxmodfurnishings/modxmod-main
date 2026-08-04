@@ -8,6 +8,8 @@ MODxMOD FURNISHINGS strives to create an open system (the Open Furnishings Syste
 
 In short: everyone can be a creator, everyone can interoperate, and no one organization will own the interoperation technology.
 
+See the in-depth [rationale explanation](./docs/rationale.md).
+
 ## System Parts
 
 The Open Furnishings System describes several pieces:

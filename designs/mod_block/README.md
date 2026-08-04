@@ -87,3 +87,12 @@ You can design new dividers or inserts. The recommended material is 1/8" thick (
 The front 7mm slots are identical to the rear 7mm slots. In the shipping Mod Block, the front slots have a user-changeable design. 
 
 For more details, please see the [Art Plates](../art_plates/) documentation.
+
+## Resources
+
+- [Mod Block models](./models/)
+- [Art Plate models](../art_plates/models/)
+
+## Copyright and license
+
+This file and all other files in this repository are marked with CC0 1.0. To view a copy of this license, visit http://creativecommons.org/publicdomain/zero/1.0

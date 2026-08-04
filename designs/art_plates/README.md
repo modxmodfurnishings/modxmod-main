@@ -89,7 +89,7 @@ The recommended dimensions for open-box designs are:
 
 ### Solid front example
 
-Use the `modx-ap102-short.step` or `modx-ap102-short.dxf` files to cut out 1/4" material (or two 1/8" materials).
+Use the `AP102-14inch.step` or `modx-ap102-short.dxf` files to cut out 1/4" material (or two 1/8" materials).
 
 ### Semi-open design example
 
@@ -104,3 +104,12 @@ In your 3D printer slicer software, import the `.STEP` model and ***don't print*
 By cutting two 1/8" plates where the rear plate has slightly smaller holes, you get a layered dimensional design:
 
 ![Photo of two layered art plates](./example-layered18inch.jpg)
+
+## Resources
+
+- [Art Plate models](./models/)
+- [Mod Block models](../mod_block/models/)
+
+## Copyright and license
+
+This file and all other files in this repository are marked with CC0 1.0. To view a copy of this license, visit http://creativecommons.org/publicdomain/zero/1.0
